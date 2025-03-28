@@ -4,7 +4,7 @@
 Sou um desenvolvedor apaixonado por tecnologia e estou atualmente cursando Desenvolvimento de Software Multiplataforma. Sempre em busca de novos desafios e aprendizados, gosto de explorar diferentes linguagens e ferramentas para criar soluções inovadoras.
 
 ## 🚀 Habilidades
-- 🔹 **Linguagens**: Java, JavaScript, Python, PHP, Html
+- 🔹 **Linguagens**: Java, JavaScript, Python, PHP
 - 🔹 **Frameworks & Tecnologias**: React, Node.js
 - 🔹 **Banco de Dados**: MySQL, PostgreSQL
 - 🔹 **Ferramentas**: Git, VS Code, Android Studio
