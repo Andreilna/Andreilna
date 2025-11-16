@@ -1,12 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=header"/>
 
 <div align="center" style="margin-top: 40px;">
-  <img 
-      src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif"
-      alt="Matrix Style GIF" 
-      width="100%"
-      height="400px"
-      style="border-radius: 20px; object-fit: cover; box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);" 
+   <img 
+       src="https://github.com/user-attachments/assets/cf3d04cb-e4a6-4ac1-a889-bebed69b59a2"
+       alt="Anime Style GIF" 
+       width="100%"
+       height="400px"
+       style="border-radius: 20px; object-fit: cover; box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);" 
   />
   
   <br/>
