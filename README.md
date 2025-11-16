@@ -8,7 +8,9 @@
        height="400px"
        style="border-radius: 20px; object-fit: cover; box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);" 
   />
-  
+   
+  <br/>
+  <br/>
   <br/>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&color=39FF14&size=20&center=true&vCenter=true&width=1000&lines=ACCESSING+SYSTEM...;IDENTITY:+DREY;STATUS:+SOFTWARE+DEVELOPMENT+STUDENT;AFFILIATION:+CERES+TEAM;[SYSTEM+SECURED])](https://git.io/typing-svg)
