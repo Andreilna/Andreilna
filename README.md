@@ -19,9 +19,9 @@
 ---
 
 <h2 align="center" style="color:#00C700;">&gt; 📊 GitHub Stats_</h2>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andreilna&show_icons=true&count_private=true&hide_border=true&title_color=00C700&icon_color=39FF14&text_color=39FF14&bg_color=0D0D0D" alt="GitHub Stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreilna&layout=compact&hide_border=true&title_color=00C700&text_color=39FF14&bg_color=0D0D0D" alt="Top Languages"/>
+<div align="center">
+    <img width="49%" height="195px" src="https://github-stats-alpha.vercel.app/api?username=Andreilna&show_icons=true&count_private=true&hide_border=true&title_color=00C700&icon_color=39FF14&text_color=39FF14&bg_color=0D0D0D" alt="GitHub Stats"/>
+    <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Andreilna&theme=github_dark" alt="Top Languages"/>
 </div>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Andreilna&bg_color=0D0D0D&color=39FF14&line=00C700&point=39FF14&area=true&hide_border=true)](https://github.com/Andreilna)
