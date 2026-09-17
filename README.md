@@ -28,29 +28,6 @@ I enjoy working across the full stack — from designing interfaces in Figma to 
 
 ---
 
-## `>` GitHub Stats
-
-<div align="center">
-  <img
-    width="48%" height="195px"
-    src="https://github-readme-stats-drey.vercel.app/api?username=Andreilna&show_icons=true&count_private=true&hide_border=true&title_color=00C700&icon_color=39FF14&text_color=c9d1d9&bg_color=0D1117&cache_seconds=0"
-    alt="GitHub Stats"
-  />
-  <img
-    width="48%" height="195px"
-    src="https://github-readme-stats-drey.vercel.app/api/top-langs/?username=Andreilna&layout=compact&hide_border=true&title_color=00C700&icon_color=39FF14&text_color=c9d1d9&bg_color=0D1117"
-    alt="Top Languages"
-  />
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Andreilna&bg_color=0D1117&color=39FF14&line=00C700&point=39FF14&area=true&area_color=00C70020&hide_border=true)](https://github.com/Andreilna)
-
-</div>
-
----
-
 ## `>` Tech Stack
 
 #### Languages & Frameworks
